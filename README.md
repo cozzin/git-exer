@@ -10,3 +10,4 @@
 
 - rebase test-foward
 
+- master - rebase auto merge
