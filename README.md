@@ -5,5 +5,5 @@
 
 
 
-- fast-foward exer 2
+- fast-foward exer / conflict test
 - 3-way other
