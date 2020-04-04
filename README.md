@@ -16,3 +16,5 @@
 - rebase test-foward
 
 - master - rebase auto merge
+
+- pr 실습
